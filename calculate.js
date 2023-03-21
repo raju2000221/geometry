@@ -5,6 +5,7 @@ document.getElementById('btn1').addEventListener('click',function(){
      const areadefault = 0.5;
      const Triangle = areadefault * firstvalue * secoundvalue ;
      showResult(Triangle,k)
+     valueShow(firstvalue,secoundvalue)
 })
 document.getElementById('btn2').addEventListener('click',function(){
     const k = 'Rectangle'
