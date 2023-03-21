@@ -1,0 +1,23 @@
+.navbar{
+    background: rgba(16, 144, 216, 0.1);
+border-radius: 8px;
+}
+.navtextp{
+    font-weight: 500;
+    font-size: 25px;
+    color: rgba(17, 17, 17, 0.6) !important;
+}
+/* card */
+
+.imgHeight{
+    height: 194px;
+}
+
+.fourcolstyle{
+    text-decoration: underline;
+}
+
+/* button */
+.btnStyle{
+            display: none;
+}
